@@ -5,5 +5,5 @@ Set of recipes as given by my grandma.
 - pizzas (TODO)
 - sauces (TODO)
 - spreads (TODO)
-- (sushi) [./sushi]
-- (Pasta Dough)[./pasta.md]
+- [sushi] [./sushi]
+- [Pasta Dough][./pasta.md]
